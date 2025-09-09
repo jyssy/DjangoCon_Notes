@@ -1,2 +1,6 @@
 #MISC
 .DS_Store
+venv/
+env/
+.venv/
+.env/
