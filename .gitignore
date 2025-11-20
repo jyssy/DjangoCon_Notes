@@ -1,5 +1,10 @@
 #MISC
-DS_Store
+*.DS_Store
+/.DS_Store
+.DS_Store/
+2025/.DS_Store
+2026/.DS_Store
+2027/.DS_Store
 venv/
 env/
 .venv/
